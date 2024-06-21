@@ -24,7 +24,7 @@ Steganography is the practice of hiding a secret message within a larger one in 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/image-steganography.git
+    git clone https://github.com/vimal7079/Steganography
     cd image-steganography
     ```
 
